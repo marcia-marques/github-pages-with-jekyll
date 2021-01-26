@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is my second course on Learning Lab. GitHub is a great tool ;)
